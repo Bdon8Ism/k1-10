@@ -4,7 +4,7 @@ const bot2 = new Discord.Client();
 const bot3 = new Discord.Client();
 const bot4 = new Discord.Client();
 const bot5 = new Discord.Client();
-const bot6 = new Discord.Client(); 
+const bot6 = new Discord.Client();
 const bot7 = new Discord.Client();
 const bot8 = new Discord.Client();
 const bot9 = new Discord.Client();
@@ -63,7 +63,7 @@ bot1.on(`ready`, () => {
    let channel = bot1.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send("Hello")
-    }, 3000);
+    }, 900);
 });
 ///////////////////////////////////////
 
@@ -129,7 +129,7 @@ bot2.on(`ready`, () => {
    let channel = bot2.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send("spam too fast 97??")
-    }, 3000);
+    }, 900);
 });
 
 /////////////////////////////////////
@@ -192,7 +192,7 @@ bot3.on(`ready`, () => {
    let channel = bot3.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(args1)
-    }, 3000);
+    }, 900);
 });
 //////////////////////////////////
 
@@ -260,7 +260,7 @@ bot4.on(`ready`, () => {
    let channel = bot4.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(args1)
-    }, 3000);
+    }, 900);
 });
 //////////////////////////////////
 
@@ -328,7 +328,7 @@ bot5.on(`ready`, () => {
    let channel = bot5.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(args1)
-    }, 3000);
+    }, 900);
 });
 //////////////////////////////////
 
@@ -396,7 +396,7 @@ bot6.on(`ready`, () => {
    let channel = bot6.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(args1)
-    }, 3000);
+    }, 900);
 });
 //////////////////////////////////
 
@@ -464,7 +464,7 @@ bot7.on(`ready`, () => {
    let channel = bot7.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(args1)
-    }, 3000);
+    }, 900);
 });
 //////////////////////////////////
 
@@ -532,7 +532,7 @@ bot8.on(`ready`, () => {
    let channel = bot8.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(args1)
-    }, 3000);
+    }, 900);
 });
 //////////////////////////////////
 
@@ -600,7 +600,7 @@ bot9.on(`ready`, () => {
    let channel = bot9.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(args1)
-    }, 3000);
+    }, 900);
 });
 //////////////////////////////////
 
@@ -668,7 +668,7 @@ bot10.on(`ready`, () => {
    let channel = bot10.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(args1)
-    }, 3000);
+    }, 900);
 });
 //////////////////////////////////
 
