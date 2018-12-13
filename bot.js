@@ -60,13 +60,13 @@ message.channel.send('#daily')
 ///////////////////////////////////////////////
 
 bot1.on(`ready`, () => {
-  for(let x = 0; x < 90000; x++) {
-
+ 
+    let x = 0; x < 90000; x++
    let channel = bot1.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
-    channel.send(`**Hello** [ " ${x} ] " `)
+    channel.send(`**Hello** [ " ${x} " ] `)
    }, 900);
-  }
+  
 });
 ///////////////////////////////////////
 
