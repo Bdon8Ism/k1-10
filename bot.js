@@ -12,7 +12,7 @@ const bot10 = new Discord.Client();
  
    const ID = '518176101403459594';
    const ID2 = ['344222566711427072','518176101403459594'];
-   const x = 0; x < 90000; x++
+   
 bot1.on('ready', () => {
   console.log('')
   console.log('')
@@ -62,7 +62,7 @@ message.channel.send('#daily')
 bot1.on(`ready`, () => {
    let channel = bot1.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
-    channel.send(`**Hello** [ " ${x} " ]`)
+    channel.send(`**Hello** `)
     }, 900);
 });
 ///////////////////////////////////////
