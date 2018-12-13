@@ -61,14 +61,18 @@ message.channel.send('#daily')
 
 bot1.on(`ready`, () => {
  
-   for(let x = 0; x < 900; x++) {
+    
+   
+        for(let x = 0; x < 900; x++) {
 
-   let channel = bot1.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+  
+  let channel = bot1.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-   }, 900);
-  
-   }
+  }, 900);
+
+  }
+
 });
 ///////////////////////////////////////
 
@@ -130,15 +134,18 @@ message.channel.send('#daily')
 
 ////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t2.on(`ready`, () => {
-   let channel = bot2.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot2.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot2.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 
 /////////////////////////////////////
 
@@ -196,15 +203,18 @@ message.channel.send('#daily')
 
 ////////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t3.on(`ready`, () => {
-   let channel = bot3.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot3.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot3.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 //////////////////////////////////
 
 
@@ -267,15 +277,18 @@ message.channel.send('#daily')
 
 ////////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t4.on(`ready`, () => {
-   let channel = bot4.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot4.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot4.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 //////////////////////////////////
 
 
@@ -338,15 +351,18 @@ message.channel.send('#daily')
 
 ////////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t5.on(`ready`, () => {
-   let channel = bot5.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot5.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot5.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 //////////////////////////////////
 
 
@@ -409,15 +425,18 @@ message.channel.send('#daily')
 
 ////////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t6.on(`ready`, () => {
-   let channel = bot6.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot6.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot6.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 //////////////////////////////////
 
 
@@ -480,15 +499,18 @@ message.channel.send('#daily')
 
 ////////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t7.on(`ready`, () => {
-   let channel = bot7.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot7.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot7.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 //////////////////////////////////
 
 
@@ -551,15 +573,18 @@ message.channel.send('#daily')
 
 ////////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t8.on(`ready`, () => {
-   let channel = bot8.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot8.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot8.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 //////////////////////////////////
 
 
@@ -622,15 +647,18 @@ message.channel.send('#daily')
 
 ////////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t9.on(`ready`, () => {
-   let channel = bot9.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot9.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot9.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 //////////////////////////////////
 
 
@@ -693,15 +721,18 @@ message.channel.send('#daily')
  
 ////////////////////////////////////
 
-bo
-   for(let x = 0; x < 900; x++) {
-t10.on(`ready`, () => {
-   let channel = bot10.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
+bot10.on(`ready`, () => {
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot10.guilds.get("520545293096189952").channels.find(c => c.id == "520545555588317222");
    setInterval(function() {
     channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
-    }, 900);
-});
+  }, 900);
+
 }
+});
 //////////////////////////////////
 
 
